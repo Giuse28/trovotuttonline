@@ -1,18 +1,15 @@
-/* index.css - stile base */
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-  background-color: #f9f9f9;
+  font-family: sans-serif;
+  background-color: #f4f4f4;
+  padding: 2rem;
   color: #333;
 }
-
 h1 {
-  color: #0070f3;
-  text-align: center;
-  margin-top: 40px;
+  color: #0059b3;
 }
-
-p {
-  text-align: center;
-  font-size: 18px;
+article {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
 }

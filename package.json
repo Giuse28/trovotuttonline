@@ -1,7 +1,6 @@
 {
   "name": "trovotuttonline",
   "version": "1.0.0",
-  "description": "Sito ufficiale di Giuseppe Castronovo – Commercialista e consulente strategico per la ristorazione",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +12,6 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "vite": "^5.0.0"
+    "vite": "^4.4.0"
   }
 }
